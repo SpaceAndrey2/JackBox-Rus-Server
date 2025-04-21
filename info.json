@@ -7,7 +7,7 @@
     "urls":[
         {
             "versions":["1.0.0"],
-            "api":"https://raw.githubusercontent.com/SpaceAndrey2/JackBox-Rus-Server/main/api/v2",
+            "api":"https://raw.githubusercontent.com/SpaceAndrey2/JackBox-Rus-Server/main/api/v2/",
             "assets":"https://raw.githubusercontent.com/SpaceAndrey2/JackBox-Rus-Server/main/assets"
         }
     ],
